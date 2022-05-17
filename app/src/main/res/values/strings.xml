@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VetPetFlauros</string>
+    <string name="boton_consultar">Consultar el perfil de tus mascotas</string>
+    <string name="boton_solicitar">Solicitar una cita</string>
+</resources>

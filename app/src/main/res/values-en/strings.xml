@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VetPetFlauros</string>
+    <string name="boton_consultar">Check the profile of your pets</string>
+    <string name="boton_solicitar">Make an appointment</string>
+</resources>

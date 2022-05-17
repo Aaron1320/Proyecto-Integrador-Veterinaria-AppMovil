@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="50dp"
+    android:background="@drawable/custom_background">
+
+    <Button
+        android:id="@+id/btnConsultar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/boton_consultar"
+        android:backgroundTint="#7B912A"/>
+
+    <Button
+        android:id="@+id/btnSolicitar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#7B912A"
+        android:text="@string/boton_solicitar" />
+
+</LinearLayout>
