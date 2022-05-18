@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 break;
 
             case R.id.btnSolicitar:
-                Intent intentConsultar = new Intent(MainActivity.this, VetInfoActivity.class);
+                Intent intentConsultar = new Intent(MainActivity.this, VetCitaActivity.class);
                 startActivity(intentConsultar);
                 break;
         }

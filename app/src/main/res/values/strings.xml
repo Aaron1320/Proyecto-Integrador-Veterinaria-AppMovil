@@ -2,4 +2,12 @@
     <string name="app_name">VetPetFlauros</string>
     <string name="boton_consultar">Consultar el perfil de tus mascotas</string>
     <string name="boton_solicitar">Solicitar una cita</string>
+    <string name="text_telefono">Telefono</string>
+    <string name="text_contrasena">Contraseña</string>
+    <string name="iniciar_sesion">Iniciar sesión</string>
+    <string name="registrarse">Registrase</string>
+    <string name="info_nombre">Nombre:</string>
+    <string name="info_raza">Raza:</string>
+    <string name="info_descripcion">Descripción:</string>
+    <string name="vacunas_registradas">Vacunas registradas:</string>
 </resources>

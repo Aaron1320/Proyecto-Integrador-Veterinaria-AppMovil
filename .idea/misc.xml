@@ -3,6 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/maste/AndroidStudioProjects/Proyecto-Integrador-Veterinaria-AppMovil/app/src/main/res/drawable/custom_background.xml" value="0.2105" />
+        <entry key="..\:/Users/maste/AndroidStudioProjects/Proyecto-Integrador-Veterinaria-AppMovil/app/src/main/res/drawable/custom_background_info.xml" value="0.171" />
+        <entry key="..\:/Users/maste/AndroidStudioProjects/Proyecto-Integrador-Veterinaria-AppMovil/app/src/main/res/drawable/custom_background_login.xml" value="0.2105" />
+        <entry key="..\:/Users/maste/AndroidStudioProjects/Proyecto-Integrador-Veterinaria-AppMovil/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/maste/AndroidStudioProjects/Proyecto-Integrador-Veterinaria-AppMovil/app/src/main/res/layout/activity_vet_cita.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/maste/AndroidStudioProjects/Proyecto-Integrador-Veterinaria-AppMovil/app/src/main/res/layout/activity_vet_cita_info.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/maste/AndroidStudioProjects/Proyecto-Integrador-Veterinaria-AppMovil/app/src/main/res/layout/activity_vet_info.xml" value="0.264" />
+        <entry key="..\:/Users/maste/AndroidStudioProjects/Proyecto-Integrador-Veterinaria-AppMovil/app/src/main/res/layout/activity_vet_list.xml" value="0.2465483234714004" />
+        <entry key="..\:/Users/maste/AndroidStudioProjects/Proyecto-Integrador-Veterinaria-AppMovil/app/src/main/res/layout/activity_vet_login.xml" value="0.264" />
+        <entry key="..\:/Users/maste/AndroidStudioProjects/Proyecto-Integrador-Veterinaria-AppMovil/app/src/main/res/layout/item_cita.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/maste/AndroidStudioProjects/Proyecto-Integrador-Veterinaria-AppMovil/app/src/main/res/layout/item_mascota.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/maste/AndroidStudioProjects/VetPetFlauros/app/src/main/res/drawable/custom_background.xml" value="0.234" />
         <entry key="..\:/Users/maste/AndroidStudioProjects/VetPetFlauros/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
         <entry key="..\:/Users/maste/AndroidStudioProjects/VetPetFlauros/app/src/main/res/layout/activity_vet_info.xml" value="0.22826086956521738" />

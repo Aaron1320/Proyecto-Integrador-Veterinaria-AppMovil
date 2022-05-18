@@ -6,12 +6,21 @@
 
     <application
         android:allowBackup="true"
-        android:networkSecurityConfig="@xml/excepcion_ip"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
+        android:networkSecurityConfig="@xml/excepcion_ip"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.VetPetFlauros">
+        <activity
+            android:name=".VetCitaInfoActivity"
+            android:exported="false" />
+        <activity
+            android:name=".VetCitaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".VetLoginActivity"
+            android:exported="false" />
         <activity
             android:name=".VetListActivity"
             android:exported="false" />

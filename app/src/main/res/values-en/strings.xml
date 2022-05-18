@@ -3,4 +3,12 @@
     <string name="app_name">VetPetFlauros</string>
     <string name="boton_consultar">Check the profile of your pets</string>
     <string name="boton_solicitar">Make an appointment</string>
+    <string name="text_telefono">Phone number</string>
+    <string name="text_contrasena">Password</string>
+    <string name="iniciar_sesion">Log In</string>
+    <string name="registrarse">Register</string>
+    <string name="info_nombre">Name:</string>
+    <string name="info_raza">Race:</string>
+    <string name="info_descripcion">Description:</string>
+    <string name="vacunas_registradas">Registered vaccines:</string>
 </resources>
