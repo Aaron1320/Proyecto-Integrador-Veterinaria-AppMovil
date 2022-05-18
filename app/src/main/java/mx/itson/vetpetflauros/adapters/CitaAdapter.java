@@ -51,10 +51,13 @@ public class CitaAdapter extends BaseAdapter {
             txtId.setText(String.valueOf(cita.getId()));
 
             TextView txtIdUsuario = view.findViewById(R.id.txtIdUsuario);
-            txtId.setText(String.valueOf(cita.getId()));
+            txtIdUsuario.setText(String.valueOf(cita.getIdUsuario()));
 
             TextView txtIdMascota = view.findViewById(R.id.txtIdMascota);
-            txtId.setText(String.valueOf(cita.getId()));
+            txtIdMascota.setText(String.valueOf(cita.getIdMascota()));
+
+            TextView txtDescripcion = view.findViewById(R.id.txtDescripcion);
+            txtDescripcion.setText(cita.getDescripcion());
 
 
         } catch (Exception ex){

@@ -25,6 +25,7 @@ public class VetCitaActivity extends AppCompatActivity {
         setContentView(R.layout.activity_vet_cita);
 
         ListaCitas = findViewById(R.id.listaCitas);
+
         context = this;
         obtenerCitas();
     }
